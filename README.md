@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="assets/logo.png" width="120" alt="Bluetooth MIDI logo" />
+  <img src="assets/logo.png" width="120" alt="BluetoothMIDI logo" />
 </p>
 
-<h1 align="center">Bluetooth MIDI</h1>
+<h1 align="center">BluetoothMIDI</h1>
 
 <p align="center">Use your Bluetooth MIDI instruments in any DAW on Windows — wirelessly, no cables required.</p>
 
 ---
 
-**Bluetooth MIDI** is a lightweight Windows app that connects Bluetooth LE MIDI devices (keyboards, pad controllers, wind instruments, guitar processors…) to **virtual MIDI ports**, so they show up in any DAW or music software just like a USB MIDI device would.
+**BluetoothMIDI** is a lightweight Windows app that connects Bluetooth LE MIDI devices (keyboards, pad controllers, wind instruments, guitar processors…) to **virtual MIDI ports**, so they show up in any DAW or music software just like a USB MIDI device would.
 
 > This repository is the public home for **support and documentation only** — it intentionally contains no source code. The app is distributed through the Microsoft Store.
 
@@ -43,8 +43,9 @@ Bluetooth MIDI is wireless, and the radio link itself has inherent latency — t
 
 ## 🖼️ Screenshots
 
-<!-- TODO: add app screenshots (main window with connected device, tray, MIDI monitor) -->
-*Screenshots coming soon.*
+<p align="center">
+  <img src="assets/app.png" width="720" alt="BluetoothMIDI main window (dark theme) showing five paired BLE MIDI devices with Auto-connect and Connect controls, plus the Virtual MIDI Ports and Unpaired Devices sections" />
+</p>
 
 ## 🛟 Support
 
@@ -68,6 +69,6 @@ The app collects nothing, transmits nothing, and has no telemetry — everything
 
 © 2026 Alex Santos Ramos. **All rights reserved.**
 
-The contents of this repository (documentation, text, and images) may not be reused or redistributed without permission. The Bluetooth MIDI application is proprietary software.
+The contents of this repository (documentation, text, and images) may not be reused or redistributed without permission. The BluetoothMIDI application is proprietary software.
 
 *Bluetooth® is a registered trademark of Bluetooth SIG, Inc. Windows is a trademark of Microsoft Corporation. All trademarks are property of their respective owners.*

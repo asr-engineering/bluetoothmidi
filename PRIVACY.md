@@ -1,8 +1,8 @@
-# Privacy Policy — Bluetooth MIDI
+# Privacy Policy — BluetoothMIDI
 
 **Effective date:** July 3, 2026
 
-Bluetooth MIDI ("the app") is a Windows desktop application that bridges Bluetooth LE MIDI devices to virtual MIDI ports so they can be used in DAWs and other music software.
+BluetoothMIDI ("the app") is a Windows desktop application that bridges Bluetooth LE MIDI devices to virtual MIDI ports so they can be used in DAWs and other music software.
 
 This policy describes what information the app accesses, how it is used, and what (if anything) leaves your device.
 
